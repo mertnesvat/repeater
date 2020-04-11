@@ -15,12 +15,12 @@ Fortunately brain is very plastic and molds whatever you need to do! That's why 
 
 The connection what I've just told you with the project is simple Repeater is try to improve long term memory by memorizing some poem, learning new language, even learning programming ! 
 
-- (Long term mem)[https://en.wikipedia.org/wiki/Long-term_memory]
-- (Short term mem)[https://en.wikipedia.org/wiki/Short-term_memory]
-- (Spaced repetition)[https://en.wikipedia.org/wiki/Spaced_repetition]
-- (Nice Video explaining for lazy eyes)[https://www.youtube.com/watch?v=cVf38y07cfk]
+- [Long term mem](https://en.wikipedia.org/wiki/Long-term_memory)
+- [Short term mem](https://en.wikipedia.org/wiki/Short-term_memory)
+- [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
+- [Nice Video explaining for lazy eyes](https://www.youtube.com/watch?v=cVf38y07cfk)
 
-also (initial proposal here)[https://docs.google.com/document/d/1M4tA-9GHLmIiSkN0Hq0uAV56x3xV5G-uvZ7bjseC79E/edit?usp=sharing]! 
+also [initial proposal here](https://docs.google.com/document/d/1M4tA-9GHLmIiSkN0Hq0uAV56x3xV5G-uvZ7bjseC79E/edit?usp=sharing)
 
 
 ## Who we are?
