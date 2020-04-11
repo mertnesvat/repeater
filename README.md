@@ -3,7 +3,7 @@ Simple yet useful effortless spaced repetition for any information you like!
 
 ## TLDR; 
 An app aims to send notification for reminding you an information you wanted to remember with increased time periods.
-Why increased time periods because (spaced repetition)[https://en.wikipedia.org/wiki/Spaced_repetition]
+Why increased time periods because [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 
 ## What is it?
