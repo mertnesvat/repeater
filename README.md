@@ -24,12 +24,11 @@ also [initial proposal here](https://docs.google.com/document/d/1M4tA-9GHLmIiSkN
 
 ## Some Progress 
 ### Adding Note
-![gif1](https://imgur.com/DXcJG0b)
+[Imgur](https://i.imgur.com/DXcJG0b.gifv)
 ### Settings - Login
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/3GDOvLO" data-context="false" ><a href="//imgur.com/a/3GDOvLO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://i.imgur.com/WT5d0iI.gifv)
 ### Reminders 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VbzmtIk" data-context="false" ><a href="//imgur.com/a/VbzmtIk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+[Imgur](https://imgur.com/URXr0Vm)
 
 
 
