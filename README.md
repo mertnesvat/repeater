@@ -22,8 +22,19 @@ The connection what I've just told you with the project is simple Repeater is tr
 
 also [initial proposal here](https://docs.google.com/document/d/1M4tA-9GHLmIiSkN0Hq0uAV56x3xV5G-uvZ7bjseC79E/edit?usp=sharing)
 
+## Some Progress 
+### Adding Note
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3GDOvLO" data-context="false" ><a href="//imgur.com/a/3GDOvLO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+### Settings - Login
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3GDOvLO" data-context="false" ><a href="//imgur.com/a/3GDOvLO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+### Reminders 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/VbzmtIk" data-context="false" ><a href="//imgur.com/a/VbzmtIk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+
 
 ## Who we are?
  - Mert
  - Daniel J
  - Nate Brown
+
