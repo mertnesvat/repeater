@@ -26,7 +26,7 @@ also [initial proposal here](https://docs.google.com/document/d/1M4tA-9GHLmIiSkN
 ### Adding Note
 ![Add](https://i.imgur.com/On2WNoh.gif)
 ### Settings - Login
-![Settings](https://i.imgur.com/WT5d0iI.gif)
+[Settings](https://i.imgur.com/WT5d0iI.gif)
 ### Reminders 
 ![Imgur](https://i.imgur.com/URXr0Vm.jpg)
 
