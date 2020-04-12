@@ -24,13 +24,11 @@ also [initial proposal here](https://docs.google.com/document/d/1M4tA-9GHLmIiSkN
 
 ## Some Progress 
 ### Adding Note
-[img](https://i.imgur.com/DXcJG0b.mp4)
+[Add](https://i.imgur.com/On2WNoh.gif)
 ### Settings - Login
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3wbaqn"></iframe></div><p><a href="https://imgflip.com/gif/3wbaqn">via Imgflip</a></p></div>
+![Settings](https://i.imgur.com/WT5d0iI.gif)
 ### Reminders 
-[Imgur](https://imgur.com/URXr0Vm)
-
-
+[Imgur](https://i.imgur.com/URXr0Vm.jpg)
 
 ## Who we are?
  - Mert
