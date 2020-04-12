@@ -24,7 +24,7 @@ also [initial proposal here](https://docs.google.com/document/d/1M4tA-9GHLmIiSkN
 
 ## Some Progress 
 ### Adding Note
-[Imgur](https://i.imgur.com/DXcJG0b.gifv)
+[img]https://i.imgur.com/On2WNoh.gif[/img]
 ### Settings - Login
 [Imgur](https://i.imgur.com/WT5d0iI.gifv)
 ### Reminders 
