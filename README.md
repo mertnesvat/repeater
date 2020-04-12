@@ -4,8 +4,11 @@ Simple yet useful effortless brain training via research proven methods such as 
 ## TLDR; 
 Our app helps you remember the information you want to learn through sending notifications that remind you about the information over increased time periods. Why increased time periods? Because of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
 
-## Web 
+## Landing Page 
 https://todoapp-219c2.web.app/
+
+## Testflight Open Beta Install
+https://testflight.apple.com/join/IX6mafGc
 
 ## What is it?
 "Never memorize something that you can look up." famous quote by Einstein, for all my life I tried to live like this untill recently my navigation was not working and I was almost lost at somewhere I don't know in the middle of the night. I started to think it wasn't that hard to remember places and things pre-google maps era. 
